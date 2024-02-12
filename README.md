@@ -68,6 +68,72 @@
 </html>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Personal Webpage</title>
+    <style>
+        /* Your existing CSS styles */
+    </style>
+</head>
+<body>
+    <!-- Header section -->
+    <header>
+        <!-- Your existing header content -->
+    </header>
+
+    <!-- Main content section -->
+    <main>
+        <!-- Slideshow for 33 images -->
+        <div class="slideshow">
+            <!-- Your slideshow code goes here -->
+        </div>
+
+        <!-- Explanation section for the images -->
+        <div class="explanation">
+            <!-- Explanation for each image goes here -->
+        </div>
+
+        <!-- Links to social media -->
+        <div class="social-media">
+            <!-- Links to social media profiles -->
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+            <a href="#">Instagram</a>
+            <!-- Add more social media links as needed -->
+        </div>
+
+        <!-- Daily post section -->
+        <div class="daily-post">
+            <!-- Daily post content and images -->
+            <form>
+                <textarea name="postContent" id="postContent" rows="4" cols="50" placeholder="Write your daily post here..."></textarea>
+                <input type="file" name="postImage" id="postImage">
+                <button type="submit">Post</button>
+            </form>
+        </div>
+
+        <!-- News section -->
+        <div class="news">
+            <!-- Daily development news -->
+        </div>
+    </main>
+
+    <!-- Footer section -->
+    <footer>
+        <!-- Contact information -->
+        <address>
+            <!-- Your contact information -->
+            Your Name<br>
+            Your Email<br>
+            Your Phone Number
+        </address>
+    </footer>
+</body>
+</html>
+
 
 
 👋 Hi, I’m @khalif-FiqiNaleye
